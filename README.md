@@ -57,6 +57,32 @@ Instead of focusing only on commands, this repository follows a complete learnin
 - 🤖 **AI Learning Assistant** – Includes a custom GPT powered by the repository documentation for interactive learning and command explanations.
 - 📊 **Visual Learning** – Diagrams, screenshots, workflow illustrations, and command examples throughout the documentation.
 
+## 📊 Visual Learning Diagrams
+
+The repository includes visual diagrams to help explain networking concepts and Nmap workflows.
+
+| TCP Three-Way Handshake | UDP Communication |
+|-------------------------|-------------------|
+| <img src="Assets/Diagrams/01_TCP_Three_Way_Handshake.png" width="450"> | <img src="Assets/Diagrams/02_UDP_Communication.png" width="450"> |
+
+| Network Port States | Host Discovery Workflow |
+|---------------------|-------------------------|
+| <img src="Assets/Diagrams/03_Network_Port_States.png" width="450"> | <img src="Assets/Diagrams/04_Host_Discovery_Workflow.png" width="450"> |
+
+| Port Scanning Workflow | Service Version Detection |
+|------------------------|---------------------------|
+| <img src="Assets/Diagrams/05_Port_Scanning_Workflow.png" width="450"> | <img src="Assets/Diagrams/06_Service_Version_Detection.png" width="450"> |
+
+| OS Detection | NSE Architecture |
+|--------------|------------------|
+| <img src="Assets/Diagrams/07_OS_Detection_Process.png" width="450"> | <img src="Assets/Diagrams/08_NSE_Architecture.png" width="450"> |
+
+| Pentest Methodology | Learning Roadmap |
+|---------------------|------------------|
+| <img src="Assets/Diagrams/09_Pentest_Methodology.png" width="450"> | <img src="Assets/Diagrams/10_Nmap_Learning_Roadmap.png" width="450"> |
+
+> 📁 Explore the complete diagram collection in **Assets/Diagrams**.
+
 ## 📸 Documentation Preview
 
 | Cheat Sheet | Course |
