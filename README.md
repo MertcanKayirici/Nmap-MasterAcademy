@@ -55,16 +55,16 @@ Instead of focusing only on commands, this repository follows a complete learnin
 ## 📸 Documentation Preview
 
 | Cheat Sheet | Course |
-|--------------|---------|
-| ![](Assets/Screenshots/01-cheatsheet-preview.png) | ![](Assets/Screenshots/02-course-preview.png) |
+|-------------|--------|
+| ![Cheat Sheet Preview](Assets/Screenshots/01-cheatsheet-preview.png) | ![Course Preview](Assets/Screenshots/02-course-preview.png) |
 
 | Labs | Quiz |
 |------|------|
-| ![](Assets/Screenshots/03-lab-preview.png) | ![](Assets/Screenshots/04-quiz-preview.png) |
+| ![Labs Preview](Assets/Screenshots/03-lab-preview.png) | ![Quiz Preview](Assets/Screenshots/04-quiz-preview.png) |
 
 | Answer Key | AI Assistant |
-|-------------|--------------|
-| ![](Assets/Screenshots/05-answer-key-preview.png) | ![](Assets/Screenshots/06-custom-gpt-home.png) |
+|------------|--------------|
+| ![Answer Key Preview](Assets/Screenshots/05-answer-key-preview.png) | ![AI Assistant Preview](Assets/Screenshots/06-custom-gpt-home.png) |
 
 ## 📂 Repository Structure
 
@@ -220,11 +220,11 @@ See the **LICENSE** file for more information.
 
 ## 👨‍💻 Author
 
-**Mertcan Kayırıcı**
+### Mertcan Kayırıcı
 
 Cybersecurity • Networking • Open Source • Continuous Learning
 
-🐙 GitHub: https://github.com/MertcanKayirici
+🐙 GitHub: [MertcanKayirici](https://github.com/MertcanKayirici)
 
 ⭐ If this repository helped you, consider leaving a star!
 
