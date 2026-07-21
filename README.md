@@ -57,6 +57,20 @@ Instead of focusing only on commands, this repository follows a complete learnin
 - 🤖 **AI Learning Assistant** – Includes a custom GPT powered by the repository documentation for interactive learning and command explanations.
 - 📊 **Visual Learning** – Diagrams, screenshots, workflow illustrations, and command examples throughout the documentation.
 
+## 📸 Documentation Preview
+
+| Cheat Sheet | Course |
+|-------------|--------|
+| ![Cheat Sheet Preview](Assets/Screenshots/01-cheatsheet-preview.png) | ![Course Preview](Assets/Screenshots/02-course-preview.png) |
+
+| Labs | Quiz |
+|------|------|
+| ![Labs Preview](Assets/Screenshots/03-lab-preview.png) | ![Quiz Preview](Assets/Screenshots/04-quiz-preview.png) |
+
+| Answer Key | AI Assistant |
+|------------|--------------|
+| ![Answer Key Preview](Assets/Screenshots/05-answer-key-preview.png) | ![AI Assistant Preview](Assets/Screenshots/06-custom-gpt-home.png) |
+
 ## 📊 Visual Learning Diagrams
 
 The repository includes visual diagrams to help explain networking concepts and Nmap workflows.
@@ -82,20 +96,6 @@ The repository includes visual diagrams to help explain networking concepts and 
 | <img src="Assets/Diagrams/09_Pentest_Methodology.png" width="450"> | <img src="Assets/Diagrams/10_Nmap_Learning_Roadmap.png" width="450"> |
 
 > 📁 Explore the complete diagram collection in **Assets/Diagrams**.
-
-## 📸 Documentation Preview
-
-| Cheat Sheet | Course |
-|-------------|--------|
-| ![Cheat Sheet Preview](Assets/Screenshots/01-cheatsheet-preview.png) | ![Course Preview](Assets/Screenshots/02-course-preview.png) |
-
-| Labs | Quiz |
-|------|------|
-| ![Labs Preview](Assets/Screenshots/03-lab-preview.png) | ![Quiz Preview](Assets/Screenshots/04-quiz-preview.png) |
-
-| Answer Key | AI Assistant |
-|------------|--------------|
-| ![Answer Key Preview](Assets/Screenshots/05-answer-key-preview.png) | ![AI Assistant Preview](Assets/Screenshots/06-custom-gpt-home.png) |
 
 ## 📂 Repository Structure
 
