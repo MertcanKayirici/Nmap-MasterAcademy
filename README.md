@@ -71,31 +71,19 @@ Instead of focusing only on commands, this repository follows a complete learnin
 |------------|--------------|
 | ![Answer Key Preview](Assets/Screenshots/05-answer-key-preview.png) | ![AI Assistant Preview](Assets/Screenshots/06-custom-gpt-home.png) |
 
-## 📊 Visual Learning Diagrams
+## 📊 Visual Learning
 
-The repository includes visual diagrams to help explain networking concepts and Nmap workflows.
+The repository contains custom diagrams that explain core networking concepts and Nmap workflows.
 
-| TCP Three-Way Handshake | UDP Communication |
-|-------------------------|-------------------|
-| <img src="Assets/Diagrams/01_TCP_Three_Way_Handshake.png" width="450"> | <img src="Assets/Diagrams/02_UDP_Communication.png" width="450"> |
+| TCP Three-Way Handshake | Network Port States |
+|:-----------------------:|:-------------------:|
+| <img src="Assets/Diagrams/01_TCP_Three_Way_Handshake.png" width="450"> | <img src="Assets/Diagrams/03_Network_Port_States.png" width="450"> |
 
-| Network Port States | Host Discovery Workflow |
-|---------------------|-------------------------|
-| <img src="Assets/Diagrams/03_Network_Port_States.png" width="450"> | <img src="Assets/Diagrams/04_Host_Discovery_Workflow.png" width="450"> |
+| Host Discovery Workflow | NSE Architecture |
+|:-----------------------:|:----------------:|
+| <img src="Assets/Diagrams/04_Host_Discovery_Workflow.png" width="450"> | <img src="Assets/Diagrams/08_NSE_Architecture.png" width="450"> |
 
-| Port Scanning Workflow | Service Version Detection |
-|------------------------|---------------------------|
-| <img src="Assets/Diagrams/05_Port_Scanning_Workflow.png" width="450"> | <img src="Assets/Diagrams/06_Service_Version_Detection.png" width="450"> |
-
-| OS Detection | NSE Architecture |
-|--------------|------------------|
-| <img src="Assets/Diagrams/07_OS_Detection_Process.png" width="450"> | <img src="Assets/Diagrams/08_NSE_Architecture.png" width="450"> |
-
-| Pentest Methodology | Learning Roadmap |
-|---------------------|------------------|
-| <img src="Assets/Diagrams/09_Pentest_Methodology.png" width="450"> | <img src="Assets/Diagrams/10_Nmap_Learning_Roadmap.png" width="450"> |
-
-> 📁 Explore the complete diagram collection in **Assets/Diagrams**.
+> 📁 Explore all **10+ diagrams** in the [`Assets/Diagrams`](./Assets/Diagrams) directory.
 
 ## 📂 Repository Structure
 
