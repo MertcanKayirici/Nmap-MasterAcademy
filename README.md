@@ -21,7 +21,10 @@ hands-on labs, quizzes, real-world scenarios, and AI-powered learning.
 ## 🤖 AI Learning Assistant
 
 <p align="center">
-  <img src="Assets/Screenshots/06-custom-gpt-home.png" width="900">
+  <img
+  src="Assets/Screenshots/06-custom-gpt-home.png"
+  alt="Nmap Master Academy GPT"
+  width="900">
 </p>
 
 <p align="center">
@@ -29,7 +32,9 @@ hands-on labs, quizzes, real-world scenarios, and AI-powered learning.
 ### 🚀 Try the Nmap Master Academy GPT
 
 <a href="https://chatgpt.com/g/g-6a5fb8de442081919953cd93ac71db9a-nmap-master-academy">
-<img src="https://img.shields.io/badge/Try-Nmap%20Master%20Academy%20GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+<img
+  src="https://img.shields.io/badge/Try-Nmap%20Master%20Academy%20GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
+  alt="Try Nmap Master Academy GPT">
 </a>
 
 </p>
